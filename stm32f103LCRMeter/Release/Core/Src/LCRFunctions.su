@@ -1,0 +1,7 @@
+../Core/Src/LCRFunctions.c:11:6:timerSettings	8	static
+../Core/Src/LCRFunctions.c:32:9:compare	32	static
+../Core/Src/LCRFunctions.c:40:8:filterList	88	dynamic
+../Core/Src/LCRFunctions.c:89:8:measureLCR	8	static
+../Core/Src/LCRFunctions.c:98:8:calculateLCR	16	static
+../Core/Src/LCRFunctions.c:107:9:currentLeading	16	static
+../Core/Src/LCRFunctions.c:151:6:createSineWave	40	static

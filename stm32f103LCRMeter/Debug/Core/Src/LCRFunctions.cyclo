@@ -1,0 +1,7 @@
+LCRFunctions.c:11:6:timerSettings	1
+LCRFunctions.c:30:9:compare	3
+LCRFunctions.c:38:8:filterList	10
+LCRFunctions.c:87:9:measureLCR	2
+LCRFunctions.c:98:8:calculateLCR	7
+LCRFunctions.c:159:9:currentLeading	13
+LCRFunctions.c:203:6:createSineWave	6
